@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0m[32mListsSuite:[0m[0m
+[0m[[0minfo[0m] [0m[32m- one plus one is two[0m[0m
+[0m[[0minfo[0m] [0m[32m- one plus one is three?[0m[0m
+[0m[[0minfo[0m] [0m[32m- details why one plus one is not three[0m[0m
+[0m[[0minfo[0m] [0m[32m- intNotZero throws an exception if its argument is 0[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum of a few numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum should throw a NoSuchElementException when list argument is empty[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum should be positive when larger positive number is added to smaller negative number[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum should be positive when larger negative number is added to smaller positive number[0m[0m
+[0m[[0minfo[0m] [0m[32m- sum should be zero when multiple zeroes are in list[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of a few numbers[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of zero is zero[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of negative numbers is largest negative number[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of negative and positive numbers is largest positive number[0m[0m
+[0m[[0minfo[0m] [0m[32m- max of empty list throws NoSuchElementException[0m[0m
